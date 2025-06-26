@@ -1,2 +1,6 @@
-# resume
-My updated CV as a Computer Science student - Data Science Track
+# 📄 Zeyad Refaey - Resume
+
+I'm a CS student focused on Data Science @ ECU  
+This repo holds my updated resume in PDF format.
+
+👉 [Download My CV](.CV.pdf)
