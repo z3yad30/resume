@@ -16,4 +16,4 @@ My journey includes hands-on projects, self-learning, and practical applications
 - [GitHub](https://github.com/z3yad30)  
 - 📧 [Email Me](mailto:zeyad@example.com)  
 
-👉 [Download My CV](CV.pdf)
+👉 [Download My CV]([CV.pdf](https://github.com/yourusername/yourrepo/raw/main/CV.pdf))
