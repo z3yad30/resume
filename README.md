@@ -7,7 +7,7 @@ I am a **Data Scientist & ML Engineer** passionate about turning data into actio
 My journey includes hands-on projects, self-learning, and practical applications in data science.  
 
 ## 📂 What’s Inside  
-- 📑 [Download My Resume (PDF)](./Zeyad_Refaey_Resume.pdf)  
+- 📑 [Download My Resume (PDF)](CV.pdf)  
 - 📊 Portfolio projects with Machine Learning, Regression, and Clustering.  
 - 🏆 Relevant skills and certifications.  
 
