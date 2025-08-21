@@ -8,7 +8,7 @@ My journey includes hands-on projects, self-learning, and practical applications
 
 ## 📂 What’s Inside  
 - 📑 [Download My Resume (PDF)](CV.pdf)  
-- 📊 Portfolio projects with Machine Learning, Regression, and Clustering.  
+- 📊 Portfolio projects with Machine Learning, Regression, Clustering, ..., atc
 - 🏆 Relevant skills and certifications.  
 
 ## 🔗 Connect with Me  
