@@ -1,6 +1,6 @@
 # 📄 Resume – Zeyad Refaey  
 
-Welcome to my resume repository! Here you can find my updated CV along with links to my projects and professional profiles.  
+Welcome to my resume repository! Here you can find my updated CV along with links to my projects and professional profiles. 
 
 ## 👨‍💻 About Me  
 I am a **Data Scientist & ML Engineer** passionate about turning data into actionable insights through **Python, SQL, Machine Learning, and Data Analytics**.  
