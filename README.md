@@ -64,8 +64,8 @@ Welcome to my GitHub portfolio! This repository contains my **updated CVs** and 
 ## 📫 Contact
 
 📧 Email: Zeyad.mo.refaey@gmail.com  
-🌐 [linkedIn: ](https://www.linkedin.com/in/zeyadrefaey/)  
-💻 [gitHub: ](https://github.com/z3yad30)
+🌐 LinkdIN: [Zeyad Refaey](https://www.linkedin.com/in/zeyadrefaey/)  
+💻 GitHub: [z3yad30](https://github.com/z3yad30)
 
 --
 
