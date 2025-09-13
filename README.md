@@ -50,7 +50,7 @@ Welcome to my GitHub portfolio! This repository contains my **updated CVs** and 
 
 ## 📜 Experience & Training
 
-- **Data Analysis Intern** – NTI (Jun – Aug 2025)  
+- **Data Analysis Intern** – NTI (Jun – Sep 2025)  
   Hands-on data analysis, cleaning, visualization, and dashboard creation.  
 
 - **Gen AI for Beginners Internship** – ITI & NVIDIA (Aug 2025)  
