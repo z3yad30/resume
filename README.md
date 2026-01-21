@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! This repository contains my **updated CVs** and showcases my hands-on projects in **Data Analysis, Data Science, and Machine Learning**.
 
 --- 
-   [Link to Data Analyst CV PDF](./CV_Data_Analist.pdf)
+   [Link to Data Analyst CV PDF](./Resume_Zeyad_Refaey.pdf)
 ---
 
 ## 📫 Contact
